@@ -1,0 +1,14 @@
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.AssemblyInfoInputs.cache
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.AssemblyInfo.cs
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.csproj.CoreCompileInputs.cache
+C:\Users\malt2\OneDrive\VS-Code\skole\http\bin\Debug\net8.0\http.exe
+C:\Users\malt2\OneDrive\VS-Code\skole\http\bin\Debug\net8.0\http.deps.json
+C:\Users\malt2\OneDrive\VS-Code\skole\http\bin\Debug\net8.0\http.runtimeconfig.json
+C:\Users\malt2\OneDrive\VS-Code\skole\http\bin\Debug\net8.0\http.dll
+C:\Users\malt2\OneDrive\VS-Code\skole\http\bin\Debug\net8.0\http.pdb
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.dll
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\refint\http.dll
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.pdb
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\http.genruntimeconfig.cache
+C:\Users\malt2\OneDrive\VS-Code\skole\http\obj\Debug\net8.0\ref\http.dll
